@@ -1,6 +1,6 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "dots_desktop",
+    "short_name": "dots_desktop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
